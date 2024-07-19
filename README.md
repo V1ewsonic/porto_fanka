@@ -20,8 +20,19 @@ intelligence, data science, and use the supercomputer.
 
 *  Teaching and Demo for hands-on above for workshop participants
     
-<h1><a href="https://github.com/skidiss/Machine-Learning">Bangkit 2022 Capstone Project</a></h1>
+<h1><a href="https://github.com/skidiss/Machine-Learning">Bangkit Academy 2022 - Machine Learning</a></h1>
 
-*  Made a machine learning model to classify Skin-disease that deployed into Android-base apps
+- Natural Language Processing, Image Processing, Forecasting
+- Keras Library, Tensorflow, Scikit-Learn
+- Tensroflow Developers Certification
+- English Course : Introduction, Business Presentation, etc
+- <code>Application to detect Skin Disease on Android Application(Final Team Project)</code>
 
-<h1></h1>
+<h1>Microcredential AI 2021- DIKTI</h1>
+
+- Data Understanding
+- Data Visualization
+- Data Pre-Processing
+- Modelling
+- Evaluation
+- <code>Build a flood-prone area detection model in Jakarta based on Jakarta flood history data in 2020 and 2019 (Final Team Project)</code>
