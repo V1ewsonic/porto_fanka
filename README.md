@@ -40,3 +40,4 @@ intelligence, data science, and use the supercomputer.
 <h1><a href="https://github.com/V1ewsonic/Final-Project_Sentiment-Analysis-Using-Topic-Modelling-and-Clustering-Methods">Sentiment Analysis using Topic Modelling and Clustering Methods</a></h1>
 
 - Implement topic modelling method and clustering to get user sentiment from users review
+- The data format is a combination of Likert scale and free text
